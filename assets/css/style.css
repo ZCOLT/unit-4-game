@@ -1,0 +1,45 @@
+body {
+    background-image: url("../images/background_img.jpg");
+}
+.container-fluid {
+    margin: 8px;
+}
+
+h1 {
+    background-color: #e67600;
+    color: white;
+    height: 100px;
+    line-height: 85px;
+}
+
+.gameInstructions {
+    background-color: #f3dcc2;
+    color: #039125;
+    height: 330px;
+    font-size: 18px;
+}
+
+#computerChoice {
+    height: 115px;
+    font-size: 30px;
+    background-color: #039125
+}
+
+#winLoss{
+    font-size: 14px;
+    background-color: #00c8e4;
+}
+
+#scoreText, #totalScore {
+    background-color: #02977f;
+    color: white;
+}
+
+#scoreText {
+    height: 25px;
+}
+
+#totalScore {
+    font-size: 25px;
+    height: 100px;
+}
